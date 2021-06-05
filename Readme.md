@@ -1,6 +1,7 @@
 # Sample Company Website
 
-<p> Translated The web design into fully functioning responsive website. </p>
+<p> Translated The web design into fully functioning responsive website.
+<br> [No Frameworks / Libraries] </p>
 <h2>Built With</h2>
 <ul>
 <li>HTML5
@@ -18,14 +19,14 @@
 
 ## Web Design
 
-<img src="./screenshots/website.png" height="400" />
+<img src="./screenshots/website.png" height="800" />
 <hr/>
 
 ## Web Design - Authenticated
 
-<img src="./screenshots/authenticated.png" height="400" />
+<img src="./screenshots/authenticated.png" height="800" />
 <hr/>
 
 ## Mobile Design
 
-<img src="./screenshots/mobile.png" height="400" />
+<img src="./screenshots/mobile.png" height="800" />
