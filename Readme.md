@@ -19,14 +19,14 @@
 
 ## Web Design
 
-<img src="./screenshots/website.png" height="800" />
+<img src="./screenshots/website.png" height="1000" />
 <hr/>
 
 ## Web Design - Authenticated
 
-<img src="./screenshots/authenticated.png" height="800" />
+<img src="./screenshots/authenticated.png" height="1000" />
 <hr/>
 
 ## Mobile Design
 
-<img src="./screenshots/mobile.png" height="800" />
+<img src="./screenshots/mobile.png" height="1000" />
